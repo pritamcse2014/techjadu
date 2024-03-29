@@ -1,0 +1,36 @@
+.search
+{
+    width: 450px;
+    margin-left: 120px;
+    border-radius: 5px;
+    border: 2px solid #D2D2D2;
+}
+
+.btn-color
+{
+    background-color: #EB4724;
+    color: #FFFFFF;
+    margin-left: -5px;
+    border-radius: 0px 6px 6px 0px;
+}
+
+.btn:hover
+{
+    background-color: #EB4724;
+    color: #FFFFFF;
+}
+
+.btn-cart:hover
+{
+    background-color: black;
+    color: #FFFFFF;
+}
+
+@media only screen and (max-width: 768px) and (min-width: 400px) {
+    .search {
+        width: 350px;
+        margin: 0;
+        border-radius: 5px;
+        border: 2px solid #D2D2D2;
+    }
+  }

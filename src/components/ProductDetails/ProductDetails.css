@@ -1,0 +1,70 @@
+.text-color
+{
+    color: #EB4724;
+}
+
+.btn-quantity
+{
+    background-color: #e7e7e7;
+    color: black;
+}
+
+.btn-share
+{
+    background-color: #FCF0ED;
+    color: black;
+}
+
+.btn-share:hover
+{
+    background-color: #FCF0ED;
+    color: black;
+}
+
+.btn-quantity:hover
+{
+    background-color: #e7e7e7;
+    color: black;
+}
+
+.btn-color-one
+{
+    background-color: #EB4724;
+    color: #FFFFFF;
+    border-radius: 6px;
+}
+
+.btn-color-one:hover
+{
+    background-color: #EB4724;
+    color: #FFFFFF;
+    border-radius: 6px;
+}
+
+.btn-color-two
+{
+    background-color: #09AFE3;
+    color: #FFFFFF;
+    border-radius: 6px;
+}
+
+.btn-color-two:hover
+{
+    background-color: #09AFE3;
+    color: #FFFFFF;
+    border-radius: 6px;
+}
+
+.btn-color-three
+{
+    background-color: #28CC38;
+    color: #FFFFFF;
+    border-radius: 6px;
+}
+
+.btn-color-three:hover
+{
+    background-color: #28CC38;
+    color: #FFFFFF;
+    border-radius: 6px;
+}
